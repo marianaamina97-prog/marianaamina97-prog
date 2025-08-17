@@ -1,21 +1,13 @@
 ## Hi there 👋
-
-<!--
-**marianaamina97-prog/marianaamina97-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- 🔭 I’m currently working on**android and windows project**
+- 🌱 I’m currently learning **linux and htm**l
+- 👯 I’m looking to collaborate on **web development**
+- 💬 Ask me about **technology and personal development**
+- 📫 How to reach me: **marianaamina97@gmail.com**
+- 😄 Pronouns: **she\her**
+- ⚡ Fun fact: **i love reading novels**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mariana Amina(Mariela)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana amina) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mariana) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Outsidesell5563) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@12565) 
 
