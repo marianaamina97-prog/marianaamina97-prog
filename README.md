@@ -1,5 +1,4 @@
-## Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=marianaamina97-prog&icon=0&color=8)](https://visitcount.itsvg.in
+## Hi there 👋)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on**android and windows project**
