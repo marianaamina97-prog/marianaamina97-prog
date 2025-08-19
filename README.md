@@ -1,13 +1,12 @@
-## Hi there 👋
-Here are some ideas to get you started:
+## Hi there 👋 i'm mariana amina
 
-- 🔭 I’m currently working on**android and windows project**
-- 🌱 I’m currently learning **linux and htm**l
+- 🔭 I’m currently working on **my readme profile**
+- 🌱 I’m currently learning **linux,html,git and github**
 - 👯 I’m looking to collaborate on **web development**
 - 💬 Ask me about **technology and personal development**
 - 📫 How to reach me: **marianaamina97@gmail.com**
 - 😄 Pronouns: **she\her**
-- ⚡ Fun fact: **i love reading novels**
+- ⚡ Fun fact: **i love reading novels,ziplining and swimming**
 ## 🌐 Socials:
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mariana) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Outsidesell5563) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@12565) 
 
