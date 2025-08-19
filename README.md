@@ -1,4 +1,4 @@
-## Hi there 👋 i'm mariana amina
+## Hi there 👋 i'm Mariana Amina
 
 - 🔭 I’m currently working on **my readme profile**
 - 🌱 I’m currently learning **linux,html,git and github**
